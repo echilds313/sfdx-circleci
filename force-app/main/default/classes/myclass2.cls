@@ -1,5 +1,5 @@
-public with sharing class myclass {
-	public myclass() {
+public with sharing class myclass2 {
+	public myclass2() {
 
 	}
 
